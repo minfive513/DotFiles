@@ -15,7 +15,7 @@ GTKTheme (Gift Green Dark) ~/.themes ~/.config
 
 # additional Apps:
 swaybg, swaylock, pavucontrol, bluetoothctl, mullvad
-
+Thunar,
 
 # Fonts needed:
 - Fontawesome
