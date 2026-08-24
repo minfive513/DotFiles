@@ -180,4 +180,24 @@ configuration {
 */
 }
 
-@theme "~/.config/rofi/imperial3.rasi"
+//@theme "~/.config/rofi/imperial3.rasi"
+
+//@theme "/usr/share/rofi/themes/imperial2.rasi"
+
+//@theme "/usr/share/rofi/themes/imperial3.rasi"
+
+//@theme "/usr/share/rofi/themes/imperial2.rasi"
+
+//@theme "/usr/share/rofi/themes/imperial3.rasi"
+
+//@theme "/usr/share/rofi/themes/imperial3.rasi"
+
+//@theme "/usr/share/rofi/themes/solarized.rasi"
+
+//@theme "/usr/share/rofi/themes/imperial3.rasi"
+
+//@theme "/usr/share/rofi/themes/imperial3.rasi"
+
+//@theme "/usr/share/rofi/themes/imperial2.rasi"
+
+@theme "/usr/share/rofi/themes/imperial3.rasi"

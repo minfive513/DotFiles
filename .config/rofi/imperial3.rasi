@@ -39,7 +39,7 @@ window {
     location:                    center;
     anchor:                      center;
     fullscreen:                  false;
-    width:                       800px;
+    width:                       600px;
     x-offset:                    0px;
     y-offset:                    0px;
 
@@ -57,7 +57,7 @@ window {
 mainbox {
     enabled:                     true;
     spacing:                     5px;
-    padding:                     25px;
+    padding:                     5px;
     border:                      3px;
     border-radius:               @border-radius;
     background-color:            @Backround-color;
@@ -69,7 +69,7 @@ inputbar {
     enabled:                     true;
     spacing:                     0px;
     margin:                      0px 0px;
-    padding:                     5px;
+    padding:                     2px;
     border:                      3px;
     border-radius:               @border-radius;
     border-color:                white/0%;
@@ -80,10 +80,10 @@ inputbar {
 textbox-prompt-colon {
     enabled:                     true;
     expand:                      false;
-    padding:                     8px 11px;
+    padding:                     8px 8px;
     border-radius:               @border-radius;
-    background-color:            white;
-    text-color:                  black;
+    background-color:            @Alt-Backround-color;
+    text-color:                  white;
     str:                         "";
 }
 
@@ -122,7 +122,7 @@ listview {
 /*****----- Elements -----*****/
 element {
     enabled:                     true;
-    spacing:                     10px;
+    spacing:                     5px;
     margin:                      0px;
     padding:                     5px;
     border:                      0px;
@@ -168,8 +168,8 @@ mode-switcher{
     enabled:                     true;
     expand:                      false;
     spacing:                     0px;
-    margin:                      0px 200px;
-    padding:                     12px;
+    margin:                      0px 20px;
+    padding:                     6px;
     border-radius:               @border-radius;
     background-color:            @Alt-Backround-color;
 }
@@ -202,7 +202,7 @@ message {
 
 textbox {
     font: "Fira Sans 12";
-    padding:                     0px;
+    padding:                     20px;
     border-radius:               @border-radius;
     background-color:            inherit;
     text-color:                  inherit;
