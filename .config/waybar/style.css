@@ -78,7 +78,7 @@
   
   #workspaces button.focused,
   #workspaces button.active{
-    background-color: #606060;
+    background-color: #59af63;
     border: 2px solid #303030;
     color: #FFFFFF;
   }
@@ -158,7 +158,7 @@
   
   #battery.charging, #battery.plugged {
     color: #ffffff;
-    background-color: #6ADD77;
+    background-color: #59af63;
   }
   
   @keyframes blink {
@@ -202,7 +202,7 @@
   
   #idle_inhibitor.activated {
     color: #FFFFFF;
-    background-color: #6ADD77;
+    background-color: #59af63;
   }
   
   #tray > .passive {
