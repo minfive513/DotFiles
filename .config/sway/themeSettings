@@ -1,0 +1,8 @@
+set $gnome-schema org.gnome.desktop.interface
+
+exec_always {
+    gsettings set $gnome-schema gtk-theme 'Gift-green-Dark'
+    gsettings set $gnome-schema icon-theme 'Flat-Remix-Grey-Dark'
+    gsettings set $gnome-schema cursor-theme 'Win7build-dark-cursors'
+    gsettings set $gnome-schema font-name 'Cantarell 11'
+}
